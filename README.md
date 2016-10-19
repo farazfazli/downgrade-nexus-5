@@ -1,7 +1,7 @@
 # downgrade-nexus-5
-Downgrade Nexus 5 to 4.4.4
+Downgrade Nexus 5 to Android v4.4.4, and install SuperSU
 
-To aquire files needed:
+To acquire files needed:
 
 ```
 git clone https://github.com/farazfazli/downgrade-nexus-5.git && cd downgrade-nexus-5 && wget https://github.com/farazfazli/downgrade-nexus-5/releases/download/4.4.4/system.img
